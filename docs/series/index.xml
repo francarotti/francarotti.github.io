@@ -5,6 +5,16 @@
     <link>https://francarotti.github.io/series/</link>
     <description>Recent content in Series on Hugo Apéro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://francarotti.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://francarotti.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Spoonful of Hugo</title>
+      <link>https://francarotti.github.io/series/a-spoonful-of-hugo/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://francarotti.github.io/series/a-spoonful-of-hugo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
