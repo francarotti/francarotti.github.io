@@ -1,2 +1,2 @@
 # francarotti.github.io
-Persobal blog/portfolio
+Personal blog/portfolio
