@@ -19,7 +19,7 @@ options(
   blogdown.method = 'markdown',
   blogdown.ext = '.Rmd',
   blogdown.knit.on_save = FALSE,
-  blogdown.subdir = "docs/blog"
+  blogdown.subdir = "blog"
 )
 
 # fix Hugo version

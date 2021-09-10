@@ -6,7 +6,7 @@
     <description>Recent content on Hugo Apéro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://francarotti.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://francarotti.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://francarotti.github.io/collection/day02/01-netlify/</link>
@@ -116,6 +116,20 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Amo mariana</title>
+      <link>https://francarotti.github.io/docs/blog/2021-09-09-amo-mariana/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://francarotti.github.io/docs/blog/2021-09-09-amo-mariana/</guid>
+      <description>Priemiro   amo sim
+Vou colocar um grafico
+data(&amp;#34;cars&amp;#34;) plot(speed ~ dist, data = cars) Segund     amo amo
+Terc     teste steresd
+Mais um   gatos     vairos gatos
+cachorros     varios</description>
     </item>
     
     <item>
